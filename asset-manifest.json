@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/santiagopalacios/static/css/main.a617e044.chunk.css",
-    "main.js": "/santiagopalacios/static/js/main.88a99ce8.chunk.js",
-    "main.js.map": "/santiagopalacios/static/js/main.88a99ce8.chunk.js.map",
+    "main.js": "/santiagopalacios/static/js/main.72657e2d.chunk.js",
+    "main.js.map": "/santiagopalacios/static/js/main.72657e2d.chunk.js.map",
     "runtime-main.js": "/santiagopalacios/static/js/runtime-main.2faf3b3c.js",
     "runtime-main.js.map": "/santiagopalacios/static/js/runtime-main.2faf3b3c.js.map",
     "static/js/2.3a274c2a.chunk.js": "/santiagopalacios/static/js/2.3a274c2a.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2faf3b3c.js",
     "static/js/2.3a274c2a.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.88a99ce8.chunk.js"
+    "static/js/main.72657e2d.chunk.js"
   ]
 }
