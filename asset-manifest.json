@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/santiagopalacios/static/css/main.a617e044.chunk.css",
+    "main.js": "/santiagopalacios/static/js/main.88a99ce8.chunk.js",
+    "main.js.map": "/santiagopalacios/static/js/main.88a99ce8.chunk.js.map",
+    "runtime-main.js": "/santiagopalacios/static/js/runtime-main.2faf3b3c.js",
+    "runtime-main.js.map": "/santiagopalacios/static/js/runtime-main.2faf3b3c.js.map",
+    "static/js/2.3a274c2a.chunk.js": "/santiagopalacios/static/js/2.3a274c2a.chunk.js",
+    "static/js/2.3a274c2a.chunk.js.map": "/santiagopalacios/static/js/2.3a274c2a.chunk.js.map",
+    "static/js/3.29646fba.chunk.js": "/santiagopalacios/static/js/3.29646fba.chunk.js",
+    "static/js/3.29646fba.chunk.js.map": "/santiagopalacios/static/js/3.29646fba.chunk.js.map",
+    "index.html": "/santiagopalacios/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/santiagopalacios/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3a274c2a.chunk.js.LICENSE.txt": "/santiagopalacios/static/js/2.3a274c2a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/santiagopalacios/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2faf3b3c.js",
+    "static/js/2.3a274c2a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.88a99ce8.chunk.js"
+  ]
+}
